@@ -1,12 +1,13 @@
-# CodeSinaia-2021.src
-Code repository for **Advance Computer Programming School - CodeSinaia 2021** edition.
+# InstantReaction
+* Code repository for **Advance Computer Programming School - CodeSinaia 2021** edition.
 
 ---
 ### Scope
-This is a collection of the code projects implemented during **CodeSinaia 2021**.
+* This is a collection of the code projects implemented during **CodeSinaia 2021**.
 
 ---
-### **Website** http://inproted.org/CodeSinaia2021.html
+### Website 
+* http://inproted.org/CodeSinaia2021.html
 
 ---
 ### Team members
