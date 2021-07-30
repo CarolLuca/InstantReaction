@@ -3,7 +3,7 @@ Code repository for **Advance Computer Programming School - CodeSinaia 2021** ed
 
 ---
 ### Scope
-This is a code repository for team work of all participants to **CodeSinaia 2021**.
+This is a collection of the code projects implemented during **CodeSinaia 2021**.
 
 ---
 ### **Website** http://inproted.org/CodeSinaia2021.html
